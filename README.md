@@ -29,12 +29,6 @@ Groq API – LLaMA-3.3 model backend
 
 📦 Installation
 
-Clone the repository:
-
-git clone https://github.com/yourusername/codemate.git
-cd codemate
-
-
 Create a virtual environment:
 
 python -m venv venv
